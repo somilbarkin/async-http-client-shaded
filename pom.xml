@@ -5,7 +5,7 @@
 	<artifactId>async-http-client-shaded</artifactId>
 	<version>0.0.1</version>
 	<properties>
-		<asynchttpclient.version>2.8.0</asynchttpclient.version>
+		<asynchttpclient.version>2.12.2</asynchttpclient.version>
 		<slf4j.version>1.7.25</slf4j.version>
 		<reactive-streams.version>1.0.2</reactive-streams.version>
 		<activation.version>1.2.0</activation.version>
